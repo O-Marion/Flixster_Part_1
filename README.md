@@ -16,6 +16,7 @@ The following **required** functionality is completed:
 
 
 ## Video Walkthrough
+![Bitfit Pt1](https://user-images.githubusercontent.com/93610563/236580440-9a4ac2c6-10a4-4147-bf1d-8eacffcf155c.gif)
 
 Here's a walkthrough of implemented user stories:
 
