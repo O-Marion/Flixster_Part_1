@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-
+file:///Users/ruena/Desktop/Project%203%20Flixster+%20Part%201.mov
 ## Notes
 
 Describe any challenges encountered while building the app.
