@@ -19,6 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+[Uploading Kapture 2023-05-05 at 19.04.48.gif.zip…]()
 
 ## Notes
 
